@@ -1,5 +1,5 @@
 {
-  "name": "nonce-tracker",
+  "name": "@fksyuan/nonce-tracker",
   "version": "1.0.1",
   "description": "nonce calculation used in metamask",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "dependencies": {
     "assert": "^1.4.1",
     "await-semaphore": "^0.1.3",
-    "ethjs-query": "^0.3.8"
+    "@fksyuan/ethjs-query": "^0.3.4"
   },
   "devDependencies": {
     "ethereumjs-util": "^6.1.0",

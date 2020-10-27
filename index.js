@@ -1,4 +1,4 @@
-const EthQuery = require('ethjs-query')
+const EthQuery = require('@fksyuan/ethjs-query')
 const assert = require('assert')
 const Mutex = require('await-semaphore').Mutex
 /**
